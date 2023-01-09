@@ -1,6 +1,11 @@
 # method-js
 
 /**
+https://www.youtube.com/watch?v=Mr5W7bQOhYs
+ song
+ 
+ 
+ 
  * //array method..
  * https://www.programiz.com/javascript/library/array/isarray
  * 
